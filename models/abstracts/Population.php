@@ -15,7 +15,7 @@ abstract class Population
 
     public AgeGroup $ageGroup;
 
-    public EmploymentType $employmentType;
+    public Employment $employment;
 
     public Education $education;
 

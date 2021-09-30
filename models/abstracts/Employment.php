@@ -2,7 +2,7 @@
 declare(strict_types = 1);
 namespace models\abstracts;
 
-abstract class EmploymentType
+abstract class Employment
 {
     public int $id;
 
