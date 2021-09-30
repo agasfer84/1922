@@ -4,6 +4,8 @@ namespace models\abstracts;
 
 abstract class Resource
 {
+    public int $id;
+
     public string $name;
 
     public int $reserve;
